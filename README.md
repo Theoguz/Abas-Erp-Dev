@@ -3,6 +3,7 @@
 Abas Erp Dev 1. Mülakat soruları
 
 Öncelikle sorulan soru Api cinsinden çözümü hazırlanmıştır.
+Java core olarak çözümü eklenmiştir.
 
 ## API Kullanımı
 
