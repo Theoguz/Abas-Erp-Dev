@@ -15,13 +15,13 @@ Java core olarak çözümü eklenmiştir.
 #### Sipariş ekleme
 
 ```http
-  POST /add
+  POST /api/add
 ```
 #### Örnek Sipariş Tablosunun hepsini ekleme
 Gereklidir
 
 ```http
-  POST /add-all
+  POST /api/add-all
 ```
 #### Üç siparişteki malların toplam tutarının çıktısını verir
 
